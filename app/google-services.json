@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "684313822693",
+    "firebase_url": "https://surveymonk-dcab0.firebaseio.com",
+    "project_id": "surveymonk-dcab0",
+    "storage_bucket": "surveymonk-dcab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684313822693:android:99a6c240929538cc",
+        "android_client_info": {
+          "package_name": "com.example.rajatjain.surveymonk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684313822693-ilgp9h47jqdk1hi1u8uqekrgsse483u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEWDSGpmNy9bncC4BSyANcPbj6Ort2nE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
